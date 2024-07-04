@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\bin\Debug\ModsenArray.exe.config
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\bin\Debug\ModsenArray.exe
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\bin\Debug\ModsenArray.pdb
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\obj\Debug\ModsenArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\obj\Debug\ModsenArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\obj\Debug\ModsenArray.exe
+C:\Users\user\source\repos\C#\ModsenArray\ModsenArray\obj\Debug\ModsenArray.pdb
